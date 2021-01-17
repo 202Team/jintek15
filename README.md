@@ -1,7 +1,4 @@
 # jintek15
-<<<<<<< HEAD
-임진택 
-
 
 01-17 
 ▶
@@ -22,9 +19,8 @@ searchPage.jsp,
 (이후 그 값으로 해당 게시글에서 다운로드 적용) 첨부파일이 없을 때를 스크립트로 구분하여
  action를 이전 InsertCommand로 응답
 : FileUploadCommand, FileDAO, FileDTO
-=======
-임진택
->>>>>>> 16c656fd12dd6e44a87835a25a45cd9cbf1106b2
+
+
 
 01-13 
 추가: Command , member/InsertCommand, 
@@ -45,7 +41,4 @@ board/list.jsp , board/read.jsp , board/update.jsp
    고 게시글화면으로 이동
 
 ◎ 로그인 하면 메인화면과 게시글화면에서 글쓰기를 출력
-<<<<<<< HEAD
 
-=======
->>>>>>> 16c656fd12dd6e44a87835a25a45cd9cbf1106b2
